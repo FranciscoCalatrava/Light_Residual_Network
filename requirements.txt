@@ -1,0 +1,13 @@
+torch
+numpy
+pandas
+git+https://github.com/facebookresearch/fvcore
+opencv-python
+tensorboard
+pytorch-lightning
+torchinfo
+scikit-metrics
+wandb
+typeguard
+pyts
+matplotlib
