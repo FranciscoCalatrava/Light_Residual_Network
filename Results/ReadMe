@@ -1,6 +1,0 @@
-This folder contains the results of all the experiments.
-
--- File "confusion_matrices.pdf": Contains the 30 confusion matrices from the 30 experiments of the Leaving One-Out Cross-Validation. In the title is referenced which participant is left out
-                                  of the training set.
--- File "results_tables.pdf": Contains the 30 tables with the values of precision, recall, F1-score, support, accuracy, F1 macro, F1 wirghted for the 30 experiment carried out in the Leaving
-                              One-Out Cross-Validation.
