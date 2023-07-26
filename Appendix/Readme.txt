@@ -1,5 +1,5 @@
-This folder contents the following appendices:
--IEEE_Sensors_Appendix_Ablation_Study.pdf
+This folder contains the following appendices:
+-IEEE_Sensors_Appendix_ablation_study.pdf
 -IEEE_Sensors_Appendix_10_fold_cross_validation.pdf
 -IEEE_Sensors_Appendix_stratified_cross_validation.pdf
 -IEEE_Sensors_Appendix_LOOCV_metrics.pdf
